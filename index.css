@@ -1,0 +1,34 @@
+#nav-bg {
+	background-color: goldenrod;
+
+}
+
+#about-me {
+	   font-style: italic;
+}
+
+
+#pro h5{
+	font-style: underlined;
+}
+
+#bootstrap-logo {
+	max-height: 150px;
+	width: 150px;
+}
+
+
+
+#gallery-page {
+	background-color: lightslategray;
+}
+
+
+
+#footer {
+	background-color: darkblue;
+}
+
+#contact-form {
+	background-color: rgba(250, 150, 150, 0.5);
+}
